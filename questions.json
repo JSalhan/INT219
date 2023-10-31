@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["African Elephant", "Giraffe", "Blue Whale", "Hippopotamus"],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Go", "Gl", "Au", "Ag"],
+        "answer": "Au"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "South Korea", "Japan", "Vietnam"],
+        "answer": "Japan"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Liver", "Heart", "Brain", "Skin"],
+        "answer": "Skin"
+    },
+    {
+        "question": "Which gas is responsible for the ozone layer depletion?",
+        "options": ["Carbon Dioxide", "Oxygen", "Chlorofluorocarbons", "Methane"],
+        "answer": "Chlorofluorocarbons"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+        "answer": "Mitochondria"
+    }
+]
